@@ -6,11 +6,11 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>demo-grpc</name>
-  <url>http://maven.apache.org</url>
   <modules>
     <module>grpc-api</module>
     <module>grpc-server</module>
     <module>grpc-client</module>
+    <module>grpc-boot-server</module>
   </modules>
 
   <properties>

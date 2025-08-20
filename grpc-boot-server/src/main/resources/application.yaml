@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: grpc-boot-server
+
+grpc:
+  server:
+    port: 9000
